@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beatrizisrael
 - 👀 I’m interested in front-end and web design
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, HTML5 and CSS
 - 💞️ I’m looking to collaborate on any simple projects
 - 📫 How to reach me abeatrizisrael@gmail.com
 
